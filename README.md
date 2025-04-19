@@ -1,3 +1,17 @@
+This is a fork of the original [@kobalab/majiang-ui](https://github.com/kobalab/majiang-ui) created by [@kobalab](https://github.com/kobalab) with contributions from other members.
+
+It is forked and tweaked for personal use only and I will take it offline if the original author complains.
+
+Thanks.
+
+------
+
+### Tweaks:
+
+* 2025/04/18: Switch to xml then convlog() to json from @kobalab/tenhou-log, avoid fetching from server mode of the same lib
+
+------
+
 # majiang-ui
 麻雀UIライブラリ
 
